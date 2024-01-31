@@ -1,0 +1,74 @@
+/* Reset styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Main container */
+main {
+  width: 80%;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #f2f2f2;
+  box-sizing: border-box;
+}
+
+/* Section headings */
+.section-heading {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+/* Content paragraphs */
+p {
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+/* Key Skills section */
+.key-skills {
+  list-style: none;
+  padding: 0;
+}
+
+.key-skills li {
+  margin-bottom: 0.8rem;
+  font-weight: bold;
+}
+
+/* Next Steps section */
+.next-steps {
+  text-align: left;
+}
+
+.portfolio-link {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: 600;
+}
+
+/* Contact Me section */
+.contact-me {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+/* Add your own styles below this line */
